@@ -1,0 +1,21 @@
+{
+	"i0" : "images/i0.png",
+	"i1" : "images/i1.png",
+	"i2" : "images/i2.png",
+	"i3" : "images/i3.png",
+	"i4" : "images/i4.png",
+	"i5" : "images/i5.png",
+	"i6" : "images/i6.png",
+	"i7" : "images/i7.png",
+	"i8" : "images/i8.png",
+	"i9" : "images/i9.png",
+	"i10" : "images/i10.png",
+	"i11" : "images/i11.png",
+	"i12" : "images/i12.png",
+	"i13" : "images/i13.png",
+	"i14" : "images/i14.png",
+	"bg1" : "images/bg1.png",
+	"bg2" : "images/bg2.png",
+	"bomb" : "images/bomb.png",
+	"bomb2" : "images/bomb2.png"
+}
